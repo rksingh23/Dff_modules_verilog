@@ -1,0 +1,10 @@
+At 0 ns << Starting the Simulation >> 
+At 1 ns Value of Reset is =0, Enable is =0, D is =0, and Q is =x 
+At 6 ns Value of Reset is =0, Enable is =0, D is =0, and Q is =0 
+At 11 ns Value of Reset is =1, Enable is =0, D is =0, and Q is =0 
+At 13 ns Value of Reset is =1, Enable is =0, D is =0, and Q is =0 
+At 18 ns Value of Reset is =1, Enable is =1, D is =1, and Q is =1 
+At 25 ns Value of Reset is =1, Enable is =1, D is =0, and Q is =0 
+At 34 ns Value of Reset is =1, Enable is =1, D is =1, and Q is =1 
+At 47 ns Value of Reset is =1, Enable is =0, D is =0, and Q is =1 
+At 48 ns << Ending the Simulation >> 
